@@ -1,0 +1,14 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    color: inherit;
+    font: inherit;
+    text-align: inherit;
+    text-decoration: inherit;
+
+    background: transparent;
+    box-sizing: border-box;
+}
